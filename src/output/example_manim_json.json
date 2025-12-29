@@ -1,0 +1,133 @@
+[
+    {
+      "startTime": 0,
+      "endTime": 4,
+      "templateName": "text_intro",
+      "content": "Understanding Linear Functions",
+      "timestamp": 0.0,
+      "sceneDescription": "Title introduction with smooth fade-in text animation",
+      "explanationLevel": "beginner"
+    },
+    {
+      "startTime": 4,
+      "endTime": 9,
+      "templateName": "definition_box",
+      "content": "A linear function is a function of the form f(x) = mx + c, where m is the slope and c is the y-intercept.",
+      "timestamp": 4.0,
+      "sceneDescription": "Definition shown inside a highlighted rectangular box",
+      "explanationLevel": "beginner"
+    },
+    {
+      "startTime": 9,
+      "endTime": 15,
+      "templateName": "bullet_points",
+      "content": [
+        "m represents the slope",
+        "c represents the y-intercept",
+        "Graph is always a straight line"
+      ],
+      "timestamp": 9.0,
+      "sceneDescription": "Bullet points appearing one by one from the left",
+      "explanationLevel": "beginner"
+    },
+    {
+      "startTime": 15,
+      "endTime": 22,
+      "templateName": "equation_display",
+      "content": "f(x) = 2x + 1",
+      "timestamp": 15.0,
+      "sceneDescription": "Equation centered and written using LaTeX animation",
+      "explanationLevel": "intermediate"
+    },
+    {
+      "startTime": 22,
+      "endTime": 30,
+      "templateName": "step_by_step",
+      "content": [
+        "Choose a value for x",
+        "Substitute x into the equation",
+        "Compute the value of f(x)"
+      ],
+      "timestamp": 22.0,
+      "sceneDescription": "Steps shown sequentially with emphasis on current step",
+      "explanationLevel": "beginner"
+    },
+    {
+      "startTime": 30,
+      "endTime": 40,
+      "templateName": "graph_plot",
+      "content": {
+        "equation": "y = 2x + 1",
+        "xRange": [-5, 5],
+        "yRange": [-5, 5]
+      },
+      "timestamp": 30.0,
+      "sceneDescription": "Cartesian plane with animated plotting of the line",
+      "explanationLevel": "intermediate"
+    },
+    {
+      "startTime": 40,
+      "endTime": 46,
+      "templateName": "highlight_text",
+      "content": "The slope determines how steep the line is.",
+      "timestamp": 40.0,
+      "sceneDescription": "Key sentence highlighted with a glowing effect",
+      "explanationLevel": "beginner"
+    },
+    {
+      "startTime": 46,
+      "endTime": 55,
+      "templateName": "comparison",
+      "content": {
+        "left": "y = x",
+        "right": "y = 2x"
+      },
+      "timestamp": 46.0,
+      "sceneDescription": "Two graphs compared side by side to show slope difference",
+      "explanationLevel": "intermediate"
+    },
+    {
+      "startTime": 55,
+      "endTime": 65,
+      "templateName": "transformation",
+      "content": {
+        "from": "y = x",
+        "to": "y = x + 2"
+      },
+      "timestamp": 55.0,
+      "sceneDescription": "Graph shifts upward to demonstrate vertical translation",
+      "explanationLevel": "intermediate"
+    },
+    {
+      "startTime": 65,
+      "endTime": 75,
+      "templateName": "proof_steps",
+      "content": [
+        "Assume two points on the line",
+        "Compute slope using formula",
+        "Show slope remains constant"
+      ],
+      "timestamp": 65.0,
+      "sceneDescription": "Formal proof steps appearing in a structured layout",
+      "explanationLevel": "advanced"
+    },
+    {
+      "startTime": 75,
+      "endTime": 82,
+      "templateName": "image_display",
+      "content": "images.png",
+      "timestamp": 75.0,
+      "sceneDescription": "Real-world image illustrating linear growth",
+      "explanationLevel": "beginner"
+    },
+    {
+      "startTime": 82,
+      "endTime": 88,
+      "templateName": "text_outro",
+      "content": "You now understand the basics of linear functions.",
+      "timestamp": 82.0,
+      "sceneDescription": "Closing text fading out smoothly",
+      "explanationLevel": "beginner"
+    }
+  ]
+  
